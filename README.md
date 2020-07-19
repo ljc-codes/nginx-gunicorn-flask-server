@@ -1,1 +1,1 @@
-# 🦄 nginx-gunicorn-flask-server
+# 🐴 nginx-gunicorn-flask-server
