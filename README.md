@@ -1,8 +1,7 @@
 # 🐴 nginx-gunicorn-flask-server
 
 ## Description 
-
-
+This is a lightweight startercode for a gunicorn server, hosting a flask app. The app is served through a reverse proxy nginx server. Servers are docker-composed into one container.
 
 ## Build Project 
 
